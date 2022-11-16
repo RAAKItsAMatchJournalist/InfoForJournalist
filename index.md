@@ -1,0 +1,3 @@
+# This will be the Index for the Journalist 
+
+And here we can add info... 
